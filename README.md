@@ -1,6 +1,6 @@
 # Tea Estate Excel Splitter 🫖
 
-This program reads an Excel file, looks at Column C (Tea Estate), and creates a new Excel file with one sheet per tea estate (including blanks).
+This program reads an Excel file, looks at Column B (Tea Estate), and creates a new Excel file with one sheet per tea estate (including blanks).
 
 ## How to Use
 
